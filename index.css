@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(1, 1, 65);
+    width: 95%;
+    margin-left: 2.5%;
+    border-radius: 25px;
+    padding: 5px;
+}
+#plus{
+    color: green;
+    font-weight: bold;
+    font-size: larger;  
+}
+#minus{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+#text{
+    color:rgb(230, 230, 230);
+   
+    margin-bottom: 10px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+h2{
+    color: rgb(255, 208, 0);
+    text-align: center;
+}
+#regole{
+   text-align: left;
+}
+#punti{
+    text-align: center;
+}
+#listapunti{
+    margin-bottom: 10px;
+}
